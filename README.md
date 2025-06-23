@@ -1,5 +1,5 @@
 # Sushiholic
-![Sushi](Sushi.png)
+
 
 
 
